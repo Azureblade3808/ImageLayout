@@ -10,7 +10,7 @@ What if there could be some layouts having every image slot perfectly match phot
 
 ## Main Thought
 
-At this time, there is only one kind of layout, aka AlignedImageLayout. Here is how it has been developed.
+At this time, there is only one kind of layout, aka `AlignedImageLayout`. Here is how it has been developed.
 
 ### Numbers
 
@@ -152,9 +152,9 @@ looks far better than one like:
 |          |3|          |
 +----------+-+----------+
 ```
-As in the latter layout, every images get scaled smaller and a lot of space in the container is wasted.
+As in the latter layout, every image gets scaled smaller and a lot of space in the container is wasted.
 
-As a conclusion, the higher the coverage the better.
+As a conclusion, we prefer higher coverages.
 
 #### Area Accordance
 
